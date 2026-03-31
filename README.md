@@ -1,16 +1,23 @@
-# Hello, I'm Arhoni Kikon 👋
+<table>
+  <tr>
+    <td>
+      <h1>Hello, I'm Arhoni Kikon</h1>
+      <h3>Project Manager, Website — MBA</h3>
+      <p>
+        Experience working across diverse industries, leading end-to-end website initiatives. 
+        Known for driving delivery success, managing stakeholders, and building strong client partnerships.
+      </p>
+      <p><b>Focused on delivering measurable outcomes, not just project completion.</b></p>
+    </td>
+    <td>
+      <img src="your-image-url-here.jpg" width="400" alt="Arhoni Kikon">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🗂️ Project Manager, Website · MBA
-
-Experience working across diverse industries, leading end-to-end website initiatives. Known for driving delivery success, managing stakeholders, and building strong client partnerships.
-
-> *Focused on delivering measurable outcomes, not just project completion.*
-
----
-
-## 🚀 Project 1 — Website Development
+## Project 1 — Website Development
 
 - Led end-to-end website delivery, aligning UX, content, and development with business goals.
 - Scoped requirements, prioritized execution, and ensured smooth collaboration across teams.
@@ -18,11 +25,11 @@ Experience working across diverse industries, leading end-to-end website initiat
 
 **Impact: Improved usability | Stronger content clarity**
 
-🔗 [Website Link](#) *(replace `#` with the actual URL)*
+🔗 [Website Link]( https://www.dcmshriramchemicals.com/ )
 
 ---
 
-### 📸 Project Preview
+### Project Preview
 
 <!-- 
   To add a screenshot: upload the image to your repo and replace the line below:
@@ -38,7 +45,7 @@ Experience working across diverse industries, leading end-to-end website initiat
 
 ---
 
-## 🛠️ Project 2 — WordPress Templates / CMS Optimization
+## Project 2 — WordPress Templates / CMS Optimization
 
 - Led a WordPress optimization initiative to improve publishing speed and scalability.
 - Defined reusable templates and streamlined workflows to reduce operational bottlenecks.
